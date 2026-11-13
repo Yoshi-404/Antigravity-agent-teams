@@ -17,9 +17,9 @@ Specialists produce, supervisors approve or reject, and an orchestrator coordina
 |--------|------|--------|----------|
 | [`software-company`](teams/software-company) | Software company | 13 | /ciclo, /hotfix, /revisar |
 | `game-studio` *(Coming soon)* | Game studio | 14 | /conceito, /sprint, /vertical-slice, /playtest |
-| `marketing-agency` *(Coming soon)* | Marketing & content agency | 13 | /onboarding-de-cliente, /campanha, /conteudo-semanal, /relatorio-mensal |
+| [`marketing-agency`](teams/marketing-agency) | Marketing & content agency | 13 | /onboarding-de-cliente, /campanha, /conteudo-semanal, /relatorio-mensal |
 | `startup` *(Coming soon)* | Full startup | 16 | /validar-ideia, /mvp, /lancamento, /reuniao-do-conselho |
-| `online-store` *(Coming soon)* | Online store (e-commerce) | 15 | /lancar-produto, /campanha-sazonal, /rotina-semanal, /auditoria-da-loja |
+| [`online-store`](teams/online-store) | Online store (e-commerce) | 15 | /lancar-produto, /campanha-sazonal, /rotina-semanal, /auditoria-da-loja |
 
 ### How it works
 
@@ -79,9 +79,9 @@ The team content (agents, skills, workflows) is in **Brazilian Portuguese**. Ask
 |-------|------|---------|----------|
 | [`software-company`](teams/software-company) | Empresa de Software | 13 | /ciclo, /hotfix, /revisar |
 | `game-studio` *(Em breve)* | Estúdio de Jogos | 14 | /conceito, /sprint, /vertical-slice, /playtest |
-| `marketing-agency` *(Em breve)* | Agência de Marketing e Conteúdo | 13 | /onboarding-de-cliente, /campanha, /conteudo-semanal, /relatorio-mensal |
+| [`marketing-agency`](teams/marketing-agency) | Agência de Marketing e Conteúdo | 13 | /onboarding-de-cliente, /campanha, /conteudo-semanal, /relatorio-mensal |
 | `startup` *(Em breve)* | Startup Completa | 16 | /validar-ideia, /mvp, /lancamento, /reuniao-do-conselho |
-| `online-store` *(Em breve)* | Loja Virtual (e-commerce) | 15 | /lancar-produto, /campanha-sazonal, /rotina-semanal, /auditoria-da-loja |
+| [`online-store`](teams/online-store) | Loja Virtual (e-commerce) | 15 | /lancar-produto, /campanha-sazonal, /rotina-semanal, /auditoria-da-loja |
 
 ### Como funciona
 
