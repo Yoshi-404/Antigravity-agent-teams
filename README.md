@@ -66,6 +66,7 @@ The team content (agents, skills, workflows) is in **Brazilian Portuguese**. Ask
 
 - Structure follows the documented Antigravity conventions (`.agents/` with rules, skills, subagents, workflows). If your version uses other names, rename; it's plain markdown.
 - `suggested_model` is a hint only; pick the model in the UI.
+- **Antigravity Swarm (`native_swarm`)**: Works both sequentially (one agent at a time in turn) and in swarm mode, where the orchestrator posts briefs on the shared board and supervisors act as review gates.
 - Without native subagent delegation, `AGENTS.md` tells the main agent to take each role in turn.
 - AI agents make mistakes; the reviewer lowers the risk, it doesn't remove it. Read what matters before publishing or acting.
 
@@ -109,6 +110,14 @@ Redigem, analisam (com dados que **você** fornecer), especificam, revisam e pla
 ### Economia de cota
 
 Um agente por vez, modelo avançado só no orquestrador e nos supervisores, comece com o time mínimo. Veja [docs/quota-tips.pt-BR.md](docs/quota-tips.pt-BR.md) e [docs/customizing.pt-BR.md](docs/customizing.pt-BR.md).
+
+### Compatibilidade e limitações
+
+- A estrutura segue as convenções documentadas do Antigravity (`.agents/` com regras, skills, subagentes e workflows). Se a sua versão usar outros nomes, renomeie; é markdown comum.
+- `suggested_model` é apenas uma sugestão; selecione o modelo na interface.
+- **Antigravity Swarm (`native_swarm`)**: Funciona tanto em execução sequencial (um agente por vez) quanto no modo swarm, onde o orquestrador publica os briefs no quadro compartilhado e os supervisores atuam como portões de aprovação.
+- Se a delegação nativa a subagentes não estiver disponível no seu plano, o `AGENTS.md` instrui o agente principal a assumir cada papel em sequência.
+- Agentes de IA erram. O revisor reduz o risco, não o elimina: revise o que for crítico antes de publicar ou agir.
 
 ---
 
