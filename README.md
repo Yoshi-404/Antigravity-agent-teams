@@ -46,7 +46,7 @@ Each team is self-contained. The Antigravity workspace must be the **team folder
 3. Run a workflow, e.g. `/campanha-sazonal ...` in `online-store`.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Yoshi-404/Antigravity-agent-teams.git
 python shared/validate_all.py     # checks every team
 ```
 
@@ -98,7 +98,7 @@ Cada time funciona sozinho. O workspace do Antigravity deve ser a **pasta do tim
 3. Rode um workflow, por exemplo `/campanha-sazonal ...` em `online-store`.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Yoshi-404/Antigravity-agent-teams.git
 python shared/validate_all.py     # valida todos os times
 ```
 
