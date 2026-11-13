@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+# Cycles may contain client or store data. Uncomment to keep them out of git:
+# teams/*/work/*
+# !teams/*/work/_templates/
+# !teams/*/work/README.md
